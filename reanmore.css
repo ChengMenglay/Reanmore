@@ -1,0 +1,272 @@
+@import url("https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@100;300;400;700;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins, sans-serif, Koh Santepheap, serif;
+}
+body {
+  background-color: #272727;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 80px;
+  color: white;
+}
+.header2 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 30px;
+  color: white;
+}
+.header3 {
+  text-align: center;
+  margin-top: 300px;
+  font-size: 37.5px;
+  color: orangered;
+}
+.header4 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 25px;
+  color: orangered;
+}
+.mainbox {
+  width: 400px;
+  height: 433px;
+  background-color: white;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.boxpicture {
+  width: 100%;
+  height: 60%;
+}
+.boxpicture img {
+  width: 100%;
+  height: 100%;
+}
+.boxtext {
+  width: 100%;
+  height: 40%;
+  background-color: #222222;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px 10px;
+}
+.boxtext h1 {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.boxtext p {
+  text-align: center;
+  color: gray;
+  margin-top: 15px;
+}
+.boxtext-span {
+  margin-top: 50px;
+}
+.boxtext-span span {
+  padding: 5px 15px;
+  background-color: #424242;
+  border-radius: 15px;
+}
+.container {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins, sans-serif, Koh Santepheap, serif;
+  display: flex;
+  flex-wrap: wrap;
+}
+.p {
+  background-color: #272727;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header5 {
+  text-align: center;
+  margin-top: 300px;
+  font-size: 37.5px;
+  color: green;
+}
+
+.header6 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 25px;
+  color: green;
+}
+.mainbox2 {
+  width: 400px;
+  height: 433px;
+  background-color: white;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.boxpicture2 {
+  width: 100%;
+  height: 60%;
+}
+.boxpicture2 img {
+  width: 100%;
+  height: 100%;
+}
+.boxtext2 {
+  width: 100%;
+  height: 40%;
+  background-color: #222222;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px 10px;
+}
+.boxtext2 h1 {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.boxtext2 p {
+  text-align: center;
+  color: gray;
+  margin-top: 15px;
+}
+.boxtext2-span {
+  margin-top: 50px;
+}
+.boxtext2-span span {
+  padding: 5px 15px;
+  background-color: #424242;
+  border-radius: 15px;
+}
+.mainbox3 {
+  width: 400px;
+  height: 433px;
+  background-color: white;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.boxpicture3 {
+  width: 100%;
+  height: 60%;
+}
+.boxpicture3 img {
+  width: 100%;
+  height: 100%;
+}
+.boxtext3 {
+  width: 100%;
+  height: 40%;
+  background-color: #222222;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px 10px;
+}
+.boxtext3 h1 {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.boxtext3 p {
+  text-align: center;
+  color: gray;
+  margin-top: 15px;
+}
+.boxtext3-span {
+  margin-top: 50px;
+}
+.boxtext3-span span {
+  padding: 5px 15px;
+  background-color: #424242;
+  border-radius: 15px;
+}
+.mainbox4 {
+  width: 400px;
+  height: 433px;
+  background-color: white;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.boxpicture4 {
+  width: 100%;
+  height: 60%;
+}
+.boxpicture4 img {
+  width: 100%;
+  height: 100%;
+}
+.boxtext4 {
+  width: 100%;
+  height: 40%;
+  background-color: #222222;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px 10px;
+}
+.boxtext4 h1 {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.boxtext4 p {
+  text-align: center;
+  color: gray;
+  margin-top: 15px;
+}
+.boxtext4-span span {
+  padding: 5px 15px;
+  background-color: #424242;
+  border-radius: 15px;
+}
+.mainbox5 {
+  width: 400px;
+  height: 433px;
+  background-color: white;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.boxpicture5 {
+  width: 100%;
+  height: 60%;
+}
+.boxpicture5 img {
+  width: 100%;
+  height: 100%;
+}
+.boxtext5 {
+  width: 100%;
+  height: 40%;
+  background-color: #222222;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px 10px;
+}
+.boxtext5 h1 {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.boxtext5 p {
+  text-align: center;
+  color: gray;
+  margin-top: 15px;
+}
+.boxtext5-span {
+  margin-top: 50px;
+}
+.boxtext5-span span {
+  padding: 5px 15px;
+  background-color: #424242;
+  border-radius: 15px;
+}

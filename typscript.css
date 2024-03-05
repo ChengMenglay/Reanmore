@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins, sans-serif, Koh Santepheap, serif;
+}
+body {
+  background-color: #272727;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.main-header {
+  width: 100%;
+  margin-top: 80px;
+}
+.start-header {
+  width: 768px;
+  background-color: #8f7f7f;
+  margin: auto;
+  padding: 20px 15px;
+  font-size: 25px;
+  margin-top: 30px;
+  border-radius: 15px;
+}
+.header-name {
+  width: 768px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 15px;
+}
+.header-name p {
+  padding: 5px 15px;
+  background-color: #227942;
+  color: white;
+  border-radius: 5px;
+  font-size: 25px;
+}
